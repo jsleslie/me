@@ -6,17 +6,17 @@ icon: fa-book
 order: 3
 ---
 
-I love books! Here are some I'm reading now:
+Here are some of my recent favourite books:
 
-1. Robert Burton: *The Anatomy of Melancholy*
-2. Robert Musil: *The Man Without Qualities*
-3. Kazuo Ishiguro: *The Unconsoled*
-4. Malcolm Lowry: *Under the Volcano*
-5. Virginia Woolf: *The Waves*
-6. James Joyce: *Finnegans Wake*
-7. Thomas Wolfe: *Look Homeward, Angel*
-8. William Thackeray: *Pendennis*
-9. Karl Marx: *Capital*
-10. James Woodforde: *The Diary of A Country Parson*
+1. Cixin Liu: *Remembrance of Earth's Past*
+  - *The Three-body Problem*
+  - *The Dark Forest*
+  - *Death's End*
+2. Blake Crouch: *Dark Matter*
+3. Neil deGrasse Tyson: *Astrophysics For People In a Hurry*
+4. Sharon Bertsch McGrayne: *The Theory That Would Not Die*
+5. Bruce Schneier: *Click Here to Kill Everybody*
+6. Cathy O'Neil: *Weapons of Math Destruction*
+7. George R. R. Martin: *A Knight of the Seven Kingdoms*
+8. Yuval Noah Harari: *Sapiens: A Brief History of Humankind*
 
-source: [The Guardian](https://www.theguardian.com/books/booksblog/2011/jan/04/best-boring-books)
