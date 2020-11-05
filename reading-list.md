@@ -8,7 +8,7 @@ order: 3
 
 Here are some of my recent favourite books:
 
-1. Cixin Liu: *The Three-body Problem**
+1. Cixin Liu: *The Three-body Problem*
 2. Neil deGrasse Tyson: *Astrophysics For People In a Hurry*
 3. Blake Crouch: *Dark Matter*
 4. Sharon Bertsch McGrayne: *The Theory That Would Not Die*
