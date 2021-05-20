@@ -10,7 +10,7 @@ Here are some of my recent favourite books:
 
 - Octavia E. Butler: *Kindred*
 - Madeline Miller: *Circe*
-- Cixin Liu: *The Three-body Problem*
+- Cixin Liu: *Remembrance of Earth's Past Trilogy*
 - Neil deGrasse Tyson: *Astrophysics For People In a Hurry*
 - Blake Crouch: *Dark Matter*
 - Sharon Bertsch McGrayne: *The Theory That Would Not Die*
