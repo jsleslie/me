@@ -8,6 +8,8 @@ order: 3
 
 Here are some of my recent favourite books:
 
+- Octavia E. Butler: *Kindred*
+- Madeline Miller: *Circe*
 - Cixin Liu: *The Three-body Problem*
 - Neil deGrasse Tyson: *Astrophysics For People In a Hurry*
 - Blake Crouch: *Dark Matter*
